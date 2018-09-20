@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Inventory App1</string>
+    <string name="action_insert_dummy_data">Insert DummyData</string>
+
+    <!-- Label for overflow menu option that deletes all pet data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All</string>
+
+    <!-- Title for the activity to add a new pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_product">Add a Product</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_productName">Product Name</string>
+
+    <!-- Label for price information in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+
+    <!-- Label for Quantity information in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+
+    <!-- Label for SupplierName information in the editor [CHAR LIMIT=30] -->
+    <string name="category_SupplierName">Supplier Name</string>
+
+    <!-- Label for SupplierPhoneNumber information in the editor [CHAR LIMIT=30] -->
+    <string name="category_SupplierPhoneNumber">Supplier PhoneNo</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_name">Name</string>
+
+    <!-- Text hint for price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_price">Price</string>
+
+    <!-- Text hint for Supplier name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_Supplier_name">Supplier Name</string>
+    <string name="hint_Supplier_phoneNumber">Supplier PhoneNo</string>
+    <string name="pounds">Pounds</string>
+    <string name="inventoryCatalog">Inventory Catalog</string>
+    <string name="editor_insert_product_failed">Product not saved</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Get started by adding a product</string>
+    <string name="editor_activity_add_mode_label">Add an item</string>
+    <string name="editor_activity_edit_mode_label">Edit the item</string>
+    <string name="editor_update_product_failed">Product not saved</string>
+    <string name="editor_update_product_successful">Product saved</string>
+    <string name="empty_fields_warning">Mandatory fields cannot be empty</string>
+    <string name="editor_quantity_field_cant_be_empty">Quantity cannot be empty</string>
+    <string name="editor_quantity_cant_be_less_then_0">Quantity cannot be less than 0</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="editor_fill_in">Please fill in the blank fields</string>
+    <string name="error_for_empty_field_name">Please fill in the name field</string>
+    <string name="error_for_empty_field_price">Please fill in the price field</string>
+    <string name="error_for_empty_field_supplier_name">Please fill in the supplier name field</string>
+    <string name="error_for_empty_field_supplier_number">Please fill in the supplier number</string>
+    <string name="editor_delete_product_failed">Unable to delete</string>
+    <string name="editor_delete_successful">Delete Successful</string>
+    <string name="delete_message">Are you sure want to delete the msg</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+
+</resources>
